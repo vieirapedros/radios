@@ -1,0 +1,47 @@
+﻿#EXTM3U
+#EXTINF:0 group-title="Brasileiras" ,Nova Brasil FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/NOVABRASIL_RIOAAC.aac
+#EXTINF:0 group-title="Brasileiras" ,Jovem Pan Anos 80
+http://6d9a.webradio.upx.net.br:9059/stream
+#EXTINF:0 group-title="Brasileiras" ,Jovem Pan Anos 90
+http://6d9a.webradio.upx.net.br:9060/stream
+#EXTINF:0 group-title="Brasileiras" ,Jovem Pan Anos 2000
+http://6d9a.webradio.upx.net.br:9940/stream
+#EXTINF:0 group-title="Brasileiras" ,Jovem Pan DJ
+http://6d9a.webradio.upx.net.br:9047/stream
+#EXTINF:0 group-title="Brasileiras" ,Nativa FM (SM)
+http://centova17.ciclanohost.com.br:8085/stream
+#EXTINF:0 group-title="Brasileiras" ,Fronteira FM (SB)
+https://sonicpanel.oficialserver.com/9992/stream
+#EXTINF:0 group-title="Brasileiras" ,Grêmio Rádio Umbro
+http://cast4.audiostream.com.br:8453/gremio
+#EXTINF:0 group-title="Brasileiras" ,Hospício Tricolor
+http://69.162.80.5:8624/live
+#EXTINF:0 group-title="0N Radio" ,0N Rock
+https://0n-rock.radionetz.de/0n-rock.mp3
+#EXTINF:0 group-title="0N Radio" ,0N Classic Rock
+https://0n-classicrock.radionetz.de/0n-classicrock.mp3
+#EXTINF:0 group-title="0N Radio" ,0N 70s
+https://0n-classicrock.radionetz.de/0n-70s.mp3
+#EXTINF:0 group-title="0N Radio" ,0N 80s
+https://0n-classicrock.radionetz.de/0n-80s.mp3
+#EXTINF:0 group-title="0N Radio" ,0N 90s
+https://0n-classicrock.radionetz.de/0n-90s.mp3
+#EXTINF:0 group-title="0N Radio" ,0N 2000s
+https://0n-classicrock.radionetz.de/0n-2000s.mp3
+#EXTINF:0 group-title="0N Radio" ,0N Hits
+https://0n-classicrock.radionetz.de/0n-hits.mp3
+#EXTINF:0 group-title="0N Radio" ,0N Top 40s
+https://0n-classicrock.radionetz.de/0n-top40s.mp3
+#EXTINF:0 group-title="0N Radio" ,0N Latin
+https://0n-latin.radionetz.de/0n-latin.mp3
+#EXTINF:0 group-title="0N Radio" ,0N Soft Pop
+https://0n-softpop.radionetz.de/0n-softpop.mp3
+#EXTINF:0 group-title="0N Radio" ,0N Soft Rock
+https://0n-softrock.radionetz.de/0n-softrock.mp3
+#EXTINF:0 group-title="0N Radio" ,0N Love
+https://0n-love.radionetz.de/0n-love.mp3
+#EXTINF:0 group-title="0N Radio" ,0N Relax
+https://0n-relax.radionetz.de/0n-relax.mp3
+#EXTINF:0 group-title="0N Radio" ,0N Smooth Jazz
+https://0n-smoothjazz.radionetz.de/0n-smoothjazz.mp3
