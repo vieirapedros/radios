@@ -5,6 +5,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/NOVABRASIL_RIO
 https://sonicpanel.oficialserver.com/9992/stream
 #EXTINF:0 group-title="Brasileiras" ,Nativa FM (SM)
 http://centova17.ciclanohost.com.br:8085/stream
+#EXTINF:0 group-title="Brasileiras" ,Rádio Liberdade (POA)
+http://cast4.audiostream.com.br:8655/aac
 #EXTINF:0 group-title="Brasileiras" ,Jovem Pan Anos 80
 http://6d9a.webradio.upx.net.br:9059/stream
 #EXTINF:0 group-title="Brasileiras" ,Jovem Pan Anos 90
