@@ -15,16 +15,12 @@ http://6d9a.webradio.upx.net.br:9060/stream
 http://6d9a.webradio.upx.net.br:9940/stream
 #EXTINF:0 group-title="Brasileiras" ,Jovem Pan DJ
 http://6d9a.webradio.upx.net.br:9047/stream
-#EXTINF:0 group-title="Brasileiras" ,Grêmio Rádio Umbro
-http://cast4.audiostream.com.br:8453/gremio
-#EXTINF:0 group-title="Brasileiras" ,Hospício Tricolor
-http://69.162.80.5:8624/live
-#EXTINF:0 group-title="Exterior" ,Máxima FM (CUN)
-http://www.tuasesorweb.com:8036/
+
+
 #EXTINF:0 group-title="Exterior" ,WHTZ 100.3 FM (NYC)
 https://stream.revma.ihrhls.com/zc1469
-#EXTINF:0 group-title="Exterior" ,Radio Mega 97.9 FM - WSKQ (NYC)
-https://prod-184-73-156-247.wostreaming.net/sbsystems-wskqfmaac-hlsc1.m3u8
+#EXTINF:0 group-title="E
+https://prod-184-73-1
 #EXTINF:0 group-title="0N Radio" ,0N Rock
 https://0n-rock.radionetz.de/0n-rock.mp3
 #EXTINF:0 group-title="0N Radio" ,0N Classic Rock
