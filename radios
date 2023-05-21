@@ -1,6 +1,6 @@
 ﻿#EXTM3U
 #EXTINF:0 group-title="Brasileiras" ,Nova Brasil FM
-https://playerservices.streamtheworld.com/api/livestream-redirect/NOVABRASIL_RIOAAC.aac
+https://playerservices.streamtheworld.com/api/livestream-redirect/NOVABRASIL_SPAAC.aac
 #EXTINF:0 group-title="Brasileiras" ,Fronteira FM (SB)
 https://sonicpanel.oficialserver.com/9992/stream
 #EXTINF:0 group-title="Brasileiras" ,Nativa FM (SM)
